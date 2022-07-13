@@ -1,16 +1,6 @@
 # furniture_online_app
 
-A new Flutter project.
+Furniture Online App
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![WhatsApp Image 2022-07-13 at 6 37 19 PM](https://user-images.githubusercontent.com/71192958/178788496-1d1ead82-75fd-4b8b-ba1a-415e5ebea05d.jpeg)
+![WhatsApp Image 2022-07-13 at 6 37 21 PM](https://user-images.githubusercontent.com/71192958/178788510-3689a22c-58b2-4bf0-9352-5ef74fa0c6d5.jpeg)
